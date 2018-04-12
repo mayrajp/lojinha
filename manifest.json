@@ -2,7 +2,7 @@
  "name": "Lojinha",
  "short_name": "Lojinha",
  "lang": "pt-BR",
- "start_url": "/index.html",
+ "start_url": "/lojinha/index.html",
  "display": "standalone",
  "theme_color": "#0f0",
  "icons": [
